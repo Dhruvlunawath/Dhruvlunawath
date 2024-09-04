@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on Artificial Intelligence <br>👯 I’m looking to collaborate on AI related projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Machine Learning , Gen AI<br>💬 Ask me about Machine Learning<br>
+# 💫 About Me:<br>
+🔭 Currently focused on Artificial Intelligence<br>
+👯 Open to collaborating on AI or Innovative projects<br>
+🤝 Seeking guidance on emerging technologies<br>
+🌱 Learning Machine Learning and Generative AI<br>
+💬 Feel free to ask me anything about Machine Learning
+
 
 
 ## 🌐 Socials:
